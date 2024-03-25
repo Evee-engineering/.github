@@ -23,7 +23,7 @@ Chez Evee Engineering, nous sommes dédiés à fournir des solutions innovantes 
 
 Pour en savoir plus sur la manière dont Evee Engineering peut vous aider à faire avancer votre entreprise dans le domaine de l'informatique et de l'ingénierie numérique, veuillez nous contacter :
 
-- Site Web : [www.eveecorp.link](https://www.eveecorp.link)
+- Site Web : www.eveecorp.link
 - Adresse e-mail : contact@eveecorp.link
 - Téléphone : +225 05 07 39 41 92
 ```
