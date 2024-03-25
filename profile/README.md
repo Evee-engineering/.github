@@ -1,4 +1,3 @@
-Voici une version mise à jour avec des emojis pour tous les services :
 
 ```markdown
 # Evee Engineering
@@ -7,7 +6,7 @@ Evee Engineering, référence en information et ingénierie numérique, accompag
 
 ## Services 🛠️
 
-- Développement logiciel personnalisé 🖥️
+- Développement logiciel(Web,Mobile,Desktop) personnalisé 🖥️
 - Consultation et conseils en informatique 💡
 - Solutions d'infrastructure informatique 🏢
 - Sécurité informatique et gestion des risques 🔒
@@ -29,4 +28,3 @@ Pour en savoir plus sur la manière dont Evee Engineering peut vous aider à fai
 - Téléphone : +225 05 07 39 41 92
 ```
 
-Cette version inclut des emojis pour chaque service proposé par Evee Engineering.
