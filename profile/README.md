@@ -32,6 +32,6 @@ veuillez nous contacter :
 
 - Site Web : www.eveecorp.link
 - Adresse e-mail : contact@eveecorp.link
-- Téléphone : +225 05 07 39 41 92
+- Téléphone : +225 05 04 90 99 04
 ```
 
